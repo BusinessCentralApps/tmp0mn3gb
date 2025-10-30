@@ -1,9 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/7369d172f54ef79100efd240af224d3614e49228/.Modules/settings.schema.json",
   "type": "PTE",
-  "templateUrl": "https://github.com/businesscentralapps/tmp0mn3gb-template@main",
+  "templateUrl": "https://github.com/businesscentralapps/tmp2VKlyL-PTE@main",
   "runs-on": "ubuntu-latest",
   "shell": "pwsh",
-  "MicrosoftTelemetryConnectionString": "",
-  "templateSha": "5c0ed12e1ea80a282cdec63c61ac05bfff26520c"
+  "MicrosoftTelemetryConnectionString": ""
 }
